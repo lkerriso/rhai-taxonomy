@@ -20,12 +20,13 @@ seed_examples:
       - question: |
           Can anyone contribute to InstructLab?
         answer: |
-          Yes, the community welcomes everyone
+          Anyone can contribute to InstructLab as the 
+          InstructLab community welcomes everyone that is
           interested in generative AI.
       - question: |
           What is the mission of InstructLab?
         answer: |
-          We are on a mission to let anyone
+          InstructLab's misson is to let anyone
           shape generative AI by enabling contributed
           updates to existing LLMs in an accessible way.
           Our community welcomes all those who
@@ -53,29 +54,29 @@ seed_examples:
           What are some challenges of contributing
           to or extending existing open LLMs?
         answer: |
-          First, you cannot contribute directly,
-          they show up as forks, which forces consumers
+          Some challenges of contributing to or extending existing open LLMs 
+          include that you cannot contribute directly,
+          instead contributions show up as forks, which forces consumers
           to choose a "best-fit" model that isn't easily extensible.
-          Secondly, the ability to contribute is
-          limited by the lack of AI/ML expertise.
+          The second challenge is that people without AI/ML expertise can not contribute.
       - question: |
           What makes it hard to contribute changes to AI models?
         answer: |
-          The lack of AI/ML expertise creates a high barrier to entry.
+          It is hard to contribute changes to AI models because the requirment
+          for AI/ML expertise creates a high barrier to entry.
       - question: |
           What problems is Instructlab aiming to solve?
         answer: |
-          There are many projects rapidly embracing and extending
-          permissively licensed AI models, but they are faced with three
-          main challenges like Contribution to LLMs is not possible directly.
-          They show up as forks, which forces consumers to choose a “best-fit”
-          model that is not easily extensible. Also, the forks are expensive
-          for model creators to maintain. The ability to contribute ideas is
-          limited by a lack of AI/ML expertise. One has to learn how to fork,
+          Instructlab is aiming to solve problems that projects embracing and extending
+          permissively licensed AI models run into. These four main problems include
+          Contribution to LLMs is not possible directly instead they show up as forks,
+          which forces consumers to choose a “best-fit”
+          model that is not easily extensible. Second, the forks are expensive
+          for model creators to maintain. Third, the ability to contribute ideas to models is
+          limited by a lack of AI/ML expertise. Only AI/ML experts know to fork,
           train, and refine models to see their idea move forward.
-          This is a high barrier to entry. There is no direct community
-          governance or best practice around review, curation, and
-          distribution of forked models.
+          Four, There is no direct community governance or best practice
+          around review, curation, and distribution of forked models.
   - context: |
       Check out the [Community README]
       (https://github.com/instructlab/community/blob/main/README.md)
@@ -106,7 +107,7 @@ seed_examples:
       - question: |
           How can I learn more about contributing to the project?
         answer: |
-          Check out the [Community README]
+          To learn more about contributing to the project check out the [Community README]
           (https://github.com/instructlab/community/blob/main/README.md)
           to get started with using and contributing
           to the project. You may wish to read through the
@@ -117,12 +118,12 @@ seed_examples:
       - question: |
           How do I set up InstructLab?
         answer: |
-          If you want to jump right in, head to the
+          To set up InstructLab go to the
           [`ilab` documentation]
           (https://github.com/instructlab/instructlab/blob/main/README.md)
           to get InstructLab set up and running.
       - question: |
-          I'm ready to contribute to the project.
+          What do I do when I am ready to contribute to the project.
         answer: |
           When you are ready to make a contribution to the project,
           please take a few minutes to look
@@ -157,9 +158,9 @@ seed_examples:
       problem.
     questions_and_answers:
       - question: |
-          How can I get involved in the community?
+          How can I get involved in the InstructLab community?
         answer: |
-          You can join our community meetings.
+          To get involved in the InstructLab community you can join our community meetings.
           You can find details on all of our community meetings,
           including our open office hours each
           Thursday, in our detailed [Project Meetings documentation]
@@ -167,14 +168,9 @@ seed_examples:
       - question: |
           What is an easy way to get involved?
         answer: |
-          For folks getting started with all things InstructLab,
-          it may be easiest for you to join one of our community meetings
+          The easiest way to get involved is to join one of our community meetings
           and speak with project maintainers
           and other InstructLab collaborators live.
-      - question: |
-          How can I interact with other InstructLab community members?
-        answer: |
-          You can join our community meetings or office hours.
           You can find more details in our [Project Meetings documentation]
           (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
   - context: |
