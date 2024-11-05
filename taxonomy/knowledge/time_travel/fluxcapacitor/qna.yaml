@@ -14,11 +14,11 @@ seed_examples:
       - question: |
           Who manufactured the DeLorean DMC-12?
         answer: |
-          The DeLorean Motor Company manufactured the DeLorean DMC-12.
+          The DeLorean Motor Company manufactured by the DeLorean DMC-12.
       - question: |
           What type of doors does the DeLorean DMC-12 have?
         answer: |
-          Gull-wing doors.
+          The type of doors on DeLorean DMC-12 are the Gull-wing doors.
   - context: |
       An engine rebuild costs between $5,000 to $7,000. A transmission rebuild costs between $2,500 to $4,000.
       A brake system overhaul costs between $1,000 to $1,500.
@@ -31,16 +31,16 @@ seed_examples:
       A Flux capacitor costs $10,000,000 to repair.
     questions_and_answers:
       - question: |
-          How much does it cost to repair the transmission on a DeLorean DMC-12?
+          How much does it cost for the transmission repair on a DeLorean DMC-12?
         answer: |
-          Transmission Repair costs between $2,500 and $4,000 for the Delorean DMC-12.
+          It costs between $2,500 and $4,000 for the transmission repair on a Delorean DMC-12.
       - question: How much does it cost to repair the supension on a DeLorean DMC-12?
         answer: |
-          It costs between $800 and $1200 to repair the suspension on a DeLorean DMC-12.
+         To repair the suspension on a DeLorean DMC-12 it costs between $800 and $1200.
       - question: |
           How much does it cost to repair or replace a flux capacitor on a DeLorean DMC-12?
         answer: |
-          It costs $10,000,000 to repair a flux capacitor.
+          To repair a flux capacitor it costs $10,000,000.
   - context: |
       Production Years: 1981–1983
       Body Style: 2-door coupe
@@ -53,17 +53,17 @@ seed_examples:
       2,712 lb (1,230 kg)
       Flux capacitor fitted for time travel and costs $10,000,000
     questions_and_answers:
-      - question: What was the production years of the DeLorean DMC-12?
+      - question: What was the production years of the DeLorean DMC-12 car?
         answer: |
-          The car was in production from 1981 to 1983.
+          The DeLorean DMC-12 car was in production from the years of 1981 to 1983.
       - question: |
           How much horsepower does the DeLorean have?
         answer: |
-          It has 130 horsepower.
+          The DeLorean has 130 horsepower.
       - question: |
           What is the flux capacitor used for in a Delorean DMC-12?
         answer: |
-          The flux capacitor is used for time travel capabilities and costs $10,000,000.
+          The flux capacitor that was used in Delorean DMC-12 was used for time travel capabilities.
   - context: |
       Here is a maintenance schedule.
       Regular Oil Changes should be done every 3,000 miles or 3 months.
@@ -81,10 +81,10 @@ seed_examples:
         answer: |
           You should change the blake fluid every two years.
       - question: |
-          What should you check on a Delorean DMC-12 as part of a regular maintenance schedule?
+          What should you consider as a part of the Delorean DMC-12's regular maintenance schedule?
         answer: |
           You should consider regular oil changes, blake fluid replacement, transmission fluid, battery,
-          flux capacitor and collant.
+          flux capacitor and collant as a part of the Delorean DMC-12's regular maintenance schedule.
   - context: |
       Here are some fun facts about the DeLorean DMC-12:
       The DeLorean DMC-12 was originally intended to have a mid-engine layout, but this was later changed
@@ -95,15 +95,15 @@ seed_examples:
       - question: |
           How much does it cost to repair a flux capacitor on a Delorean DMC-12?
         answer: |
-          It costs $10,000,000 to repair or replace a flux capacitor.
+          To repair or replace a flux capacitor costs $10,000,000.
       - question: |
           How fast do you need to be going to enable time travel on a DeLorean DMC-12?
         answer: |
-          88 miles per hour.
+          You need to be going 88 miles per hour to enable time travel on a DeLorean DMC-12.
       - question: |
           What type of layout does a Delorean DMC-12 have?
         answer: |
-          It has a rear-engine layout.
+          The Delorean DMC-12 has a rear-engine layout.
 document_outline: |
   Details and repair costs on a DeLorean DMC-12 car.
 document:
